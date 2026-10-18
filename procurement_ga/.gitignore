@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Temporary test results
+results_cli_test/
+results_smoke/
+results_check/
+
+# Keep the results directory in Git
+!results/
+results/*
+!results/.gitkeep
