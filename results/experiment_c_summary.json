@@ -1,0 +1,718 @@
+{
+  "problem": {
+    "material_count": 30,
+    "budget": 142182.95
+  },
+  "normalization_bounds": {
+    "minima": [
+      1130.0,
+      662.366,
+      636.322
+    ],
+    "maxima": [
+      142182.0,
+      6442.725,
+      2421.874
+    ]
+  },
+  "aggregates": {
+    "mutation_probability=0.05": {
+      "runs": 20,
+      "mean_hypervolume": 0.8702175542778727,
+      "median_hypervolume": 0.8729793074001184,
+      "std_hypervolume": 0.015958438106562972,
+      "mean_nondominated_count": 100,
+      "mean_objectives": [
+        70662.983,
+        2707.518925,
+        1098.715753
+      ]
+    },
+    "mutation_probability=0.1": {
+      "runs": 20,
+      "mean_hypervolume": 0.8806927710840973,
+      "median_hypervolume": 0.8832629291722347,
+      "std_hypervolume": 0.013565562939045924,
+      "mean_nondominated_count": 100,
+      "mean_objectives": [
+        70465.961,
+        2653.6944,
+        1150.599442
+      ]
+    },
+    "mutation_probability=0.2": {
+      "runs": 20,
+      "mean_hypervolume": 0.8799021633418211,
+      "median_hypervolume": 0.8795910154699456,
+      "std_hypervolume": 0.013737647340560944,
+      "mean_nondominated_count": 100,
+      "mean_objectives": [
+        72208.8745,
+        2576.126854,
+        1200.5688675
+      ]
+    }
+  },
+  "runs": [
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.05,
+      "run_index": 1,
+      "seed": 20261018,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.862434303763648,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.05,
+      "run_index": 2,
+      "seed": 20261019,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8879755147064673,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.05,
+      "run_index": 3,
+      "seed": 20261020,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8453307482370999,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.05,
+      "run_index": 4,
+      "seed": 20261021,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8815626560738866,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.05,
+      "run_index": 5,
+      "seed": 20261022,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8736646416446064,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.05,
+      "run_index": 6,
+      "seed": 20261023,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8813255356959582,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.05,
+      "run_index": 7,
+      "seed": 20261024,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8936707187086673,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.05,
+      "run_index": 8,
+      "seed": 20261025,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8575191882742843,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.05,
+      "run_index": 9,
+      "seed": 20261026,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8404677629477896,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.05,
+      "run_index": 10,
+      "seed": 20261027,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8669334720009388,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.05,
+      "run_index": 11,
+      "seed": 20261028,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8695270643673485,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.05,
+      "run_index": 12,
+      "seed": 20261029,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8546338840410338,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.05,
+      "run_index": 13,
+      "seed": 20261030,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8876496106267932,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.05,
+      "run_index": 14,
+      "seed": 20261031,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8947897607300666,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.05,
+      "run_index": 15,
+      "seed": 20261032,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8494132574281196,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.05,
+      "run_index": 16,
+      "seed": 20261033,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8503460249952589,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.05,
+      "run_index": 17,
+      "seed": 20261034,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8722939731556303,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.05,
+      "run_index": 18,
+      "seed": 20261035,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.875524264588282,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.05,
+      "run_index": 19,
+      "seed": 20261036,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8752770673516044,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.05,
+      "run_index": 20,
+      "seed": 20261037,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8840116362199714,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.1,
+      "run_index": 1,
+      "seed": 20361018,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8989328682450858,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.1,
+      "run_index": 2,
+      "seed": 20361019,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8503625881537018,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.1,
+      "run_index": 3,
+      "seed": 20361020,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.888661791607833,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.1,
+      "run_index": 4,
+      "seed": 20361021,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8918952576054606,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.1,
+      "run_index": 5,
+      "seed": 20361022,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.886119734298977,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.1,
+      "run_index": 6,
+      "seed": 20361023,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8646588758810679,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.1,
+      "run_index": 7,
+      "seed": 20361024,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8911177249351356,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.1,
+      "run_index": 8,
+      "seed": 20361025,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8832903950576646,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.1,
+      "run_index": 9,
+      "seed": 20361026,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8920245574639065,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.1,
+      "run_index": 10,
+      "seed": 20361027,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8708086897607097,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.1,
+      "run_index": 11,
+      "seed": 20361028,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8602433352419173,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.1,
+      "run_index": 12,
+      "seed": 20361029,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.9003223279232276,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.1,
+      "run_index": 13,
+      "seed": 20361030,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8795389895005234,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.1,
+      "run_index": 14,
+      "seed": 20361031,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8686905887957592,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.1,
+      "run_index": 15,
+      "seed": 20361032,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8926491901633791,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.1,
+      "run_index": 16,
+      "seed": 20361033,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8888821545469527,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.1,
+      "run_index": 17,
+      "seed": 20361034,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8810806178328066,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.1,
+      "run_index": 18,
+      "seed": 20361035,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8832354632868049,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.1,
+      "run_index": 19,
+      "seed": 20361036,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8817239068067748,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.1,
+      "run_index": 20,
+      "seed": 20361037,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8596163645742583,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.2,
+      "run_index": 1,
+      "seed": 20461018,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.887439821472482,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.2,
+      "run_index": 2,
+      "seed": 20461019,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8896058867404216,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.2,
+      "run_index": 3,
+      "seed": 20461020,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8883038951163595,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.2,
+      "run_index": 4,
+      "seed": 20461021,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8690818066745256,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.2,
+      "run_index": 5,
+      "seed": 20461022,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.873028263611429,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.2,
+      "run_index": 6,
+      "seed": 20461023,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8812144212884266,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.2,
+      "run_index": 7,
+      "seed": 20461024,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8773748242969491,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.2,
+      "run_index": 8,
+      "seed": 20461025,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8779676096514644,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.2,
+      "run_index": 9,
+      "seed": 20461026,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.9026113643935287,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.2,
+      "run_index": 10,
+      "seed": 20461027,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8482423265480304,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.2,
+      "run_index": 11,
+      "seed": 20461028,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8942208668526065,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.2,
+      "run_index": 12,
+      "seed": 20461029,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8828017880564951,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.2,
+      "run_index": 13,
+      "seed": 20461030,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8652647002866648,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.2,
+      "run_index": 14,
+      "seed": 20461031,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.860081722264196,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.2,
+      "run_index": 15,
+      "seed": 20461032,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8636301491804617,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.2,
+      "run_index": 16,
+      "seed": 20461033,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.89262018697068,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.2,
+      "run_index": 17,
+      "seed": 20461034,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8746412437777333,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.2,
+      "run_index": 18,
+      "seed": 20461035,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.9011389999244697,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.2,
+      "run_index": 19,
+      "seed": 20461036,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8911943514816486,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "C",
+      "parameter_name": "mutation_probability",
+      "parameter_value": 0.2,
+      "run_index": 20,
+      "seed": 20461037,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8775790382478489,
+      "nondominated_count": 100
+    }
+  ]
+}

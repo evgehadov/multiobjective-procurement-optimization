@@ -1,0 +1,718 @@
+{
+  "problem": {
+    "material_count": 30,
+    "budget": 142182.95
+  },
+  "normalization_bounds": {
+    "minima": [
+      780.0,
+      592.983,
+      636.322
+    ],
+    "maxima": [
+      142182.0,
+      6319.521000000001,
+      2361.9429999999998
+    ]
+  },
+  "aggregates": {
+    "population_size=50": {
+      "runs": 20,
+      "mean_hypervolume": 0.7970382985512184,
+      "median_hypervolume": 0.7924728338751466,
+      "std_hypervolume": 0.01937175900074815,
+      "mean_nondominated_count": 50,
+      "mean_objectives": [
+        74422.919,
+        2712.263267,
+        1197.668003
+      ]
+    },
+    "population_size=100": {
+      "runs": 20,
+      "mean_hypervolume": 0.8590406854555952,
+      "median_hypervolume": 0.8613326886055062,
+      "std_hypervolume": 0.01309741929340447,
+      "mean_nondominated_count": 100,
+      "mean_objectives": [
+        70465.961,
+        2653.6944,
+        1150.599442
+      ]
+    },
+    "population_size=150": {
+      "runs": 20,
+      "mean_hypervolume": 0.8841925773421724,
+      "median_hypervolume": 0.8863094017265242,
+      "std_hypervolume": 0.010040707792545345,
+      "mean_nondominated_count": 150,
+      "mean_objectives": [
+        68889.32433333334,
+        2621.0526956666668,
+        1148.9988883333333
+      ]
+    }
+  },
+  "runs": [
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 50.0,
+      "run_index": 1,
+      "seed": 20261018,
+      "generations": 200,
+      "population_size": 50,
+      "hypervolume": 0.8355966631743936,
+      "nondominated_count": 50
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 50.0,
+      "run_index": 2,
+      "seed": 20261019,
+      "generations": 200,
+      "population_size": 50,
+      "hypervolume": 0.7875892069180273,
+      "nondominated_count": 50
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 50.0,
+      "run_index": 3,
+      "seed": 20261020,
+      "generations": 200,
+      "population_size": 50,
+      "hypervolume": 0.8230037691396146,
+      "nondominated_count": 50
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 50.0,
+      "run_index": 4,
+      "seed": 20261021,
+      "generations": 200,
+      "population_size": 50,
+      "hypervolume": 0.785912276438016,
+      "nondominated_count": 50
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 50.0,
+      "run_index": 5,
+      "seed": 20261022,
+      "generations": 200,
+      "population_size": 50,
+      "hypervolume": 0.7999774091290167,
+      "nondominated_count": 50
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 50.0,
+      "run_index": 6,
+      "seed": 20261023,
+      "generations": 200,
+      "population_size": 50,
+      "hypervolume": 0.8131200657434177,
+      "nondominated_count": 50
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 50.0,
+      "run_index": 7,
+      "seed": 20261024,
+      "generations": 200,
+      "population_size": 50,
+      "hypervolume": 0.7796113890560862,
+      "nondominated_count": 50
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 50.0,
+      "run_index": 8,
+      "seed": 20261025,
+      "generations": 200,
+      "population_size": 50,
+      "hypervolume": 0.780905782751292,
+      "nondominated_count": 50
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 50.0,
+      "run_index": 9,
+      "seed": 20261026,
+      "generations": 200,
+      "population_size": 50,
+      "hypervolume": 0.8242930923603917,
+      "nondominated_count": 50
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 50.0,
+      "run_index": 10,
+      "seed": 20261027,
+      "generations": 200,
+      "population_size": 50,
+      "hypervolume": 0.789316125624188,
+      "nondominated_count": 50
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 50.0,
+      "run_index": 11,
+      "seed": 20261028,
+      "generations": 200,
+      "population_size": 50,
+      "hypervolume": 0.7965519482708292,
+      "nondominated_count": 50
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 50.0,
+      "run_index": 12,
+      "seed": 20261029,
+      "generations": 200,
+      "population_size": 50,
+      "hypervolume": 0.7805614874006912,
+      "nondominated_count": 50
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 50.0,
+      "run_index": 13,
+      "seed": 20261030,
+      "generations": 200,
+      "population_size": 50,
+      "hypervolume": 0.7635705470994067,
+      "nondominated_count": 50
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 50.0,
+      "run_index": 14,
+      "seed": 20261031,
+      "generations": 200,
+      "population_size": 50,
+      "hypervolume": 0.7773694319030872,
+      "nondominated_count": 50
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 50.0,
+      "run_index": 15,
+      "seed": 20261032,
+      "generations": 200,
+      "population_size": 50,
+      "hypervolume": 0.7765901636224677,
+      "nondominated_count": 50
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 50.0,
+      "run_index": 16,
+      "seed": 20261033,
+      "generations": 200,
+      "population_size": 50,
+      "hypervolume": 0.8184405722440314,
+      "nondominated_count": 50
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 50.0,
+      "run_index": 17,
+      "seed": 20261034,
+      "generations": 200,
+      "population_size": 50,
+      "hypervolume": 0.8200923292480424,
+      "nondominated_count": 50
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 50.0,
+      "run_index": 18,
+      "seed": 20261035,
+      "generations": 200,
+      "population_size": 50,
+      "hypervolume": 0.7839028145760133,
+      "nondominated_count": 50
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 50.0,
+      "run_index": 19,
+      "seed": 20261036,
+      "generations": 200,
+      "population_size": 50,
+      "hypervolume": 0.7956295421261051,
+      "nondominated_count": 50
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 50.0,
+      "run_index": 20,
+      "seed": 20261037,
+      "generations": 200,
+      "population_size": 50,
+      "hypervolume": 0.8087313541992498,
+      "nondominated_count": 50
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 100.0,
+      "run_index": 1,
+      "seed": 20361018,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8770446999473328,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 100.0,
+      "run_index": 2,
+      "seed": 20361019,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8294853402458873,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 100.0,
+      "run_index": 3,
+      "seed": 20361020,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8668036704350353,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 100.0,
+      "run_index": 4,
+      "seed": 20361021,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8697964880292127,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 100.0,
+      "run_index": 5,
+      "seed": 20361022,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8635231926945317,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 100.0,
+      "run_index": 6,
+      "seed": 20361023,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8438274642664985,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 100.0,
+      "run_index": 7,
+      "seed": 20361024,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8680325114074223,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 100.0,
+      "run_index": 8,
+      "seed": 20361025,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8604217365043443,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 100.0,
+      "run_index": 9,
+      "seed": 20361026,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8703989937514063,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 100.0,
+      "run_index": 10,
+      "seed": 20361027,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8499470623360693,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 100.0,
+      "run_index": 11,
+      "seed": 20361028,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8389481659882225,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 100.0,
+      "run_index": 12,
+      "seed": 20361029,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8783230558717383,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 100.0,
+      "run_index": 13,
+      "seed": 20361030,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8578077785114234,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 100.0,
+      "run_index": 14,
+      "seed": 20361031,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8482633601997425,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 100.0,
+      "run_index": 15,
+      "seed": 20361032,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8704638935805773,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 100.0,
+      "run_index": 16,
+      "seed": 20361033,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.867235803370576,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 100.0,
+      "run_index": 17,
+      "seed": 20361034,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.859099201028465,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 100.0,
+      "run_index": 18,
+      "seed": 20361035,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8622436407066679,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 100.0,
+      "run_index": 19,
+      "seed": 20361036,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8603183230409878,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 100.0,
+      "run_index": 20,
+      "seed": 20361037,
+      "generations": 200,
+      "population_size": 100,
+      "hypervolume": 0.8388293271957633,
+      "nondominated_count": 100
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 150.0,
+      "run_index": 1,
+      "seed": 20461018,
+      "generations": 200,
+      "population_size": 150,
+      "hypervolume": 0.8820888232086096,
+      "nondominated_count": 150
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 150.0,
+      "run_index": 2,
+      "seed": 20461019,
+      "generations": 200,
+      "population_size": 150,
+      "hypervolume": 0.8835713407950839,
+      "nondominated_count": 150
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 150.0,
+      "run_index": 3,
+      "seed": 20461020,
+      "generations": 200,
+      "population_size": 150,
+      "hypervolume": 0.8560165992608847,
+      "nondominated_count": 150
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 150.0,
+      "run_index": 4,
+      "seed": 20461021,
+      "generations": 200,
+      "population_size": 150,
+      "hypervolume": 0.8860636137109259,
+      "nondominated_count": 150
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 150.0,
+      "run_index": 5,
+      "seed": 20461022,
+      "generations": 200,
+      "population_size": 150,
+      "hypervolume": 0.8847064660032943,
+      "nondominated_count": 150
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 150.0,
+      "run_index": 6,
+      "seed": 20461023,
+      "generations": 200,
+      "population_size": 150,
+      "hypervolume": 0.8939040385282858,
+      "nondominated_count": 150
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 150.0,
+      "run_index": 7,
+      "seed": 20461024,
+      "generations": 200,
+      "population_size": 150,
+      "hypervolume": 0.8872965474016025,
+      "nondominated_count": 150
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 150.0,
+      "run_index": 8,
+      "seed": 20461025,
+      "generations": 200,
+      "population_size": 150,
+      "hypervolume": 0.8869401513206548,
+      "nondominated_count": 150
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 150.0,
+      "run_index": 9,
+      "seed": 20461026,
+      "generations": 200,
+      "population_size": 150,
+      "hypervolume": 0.8898137100611673,
+      "nondominated_count": 150
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 150.0,
+      "run_index": 10,
+      "seed": 20461027,
+      "generations": 200,
+      "population_size": 150,
+      "hypervolume": 0.8795150437073885,
+      "nondominated_count": 150
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 150.0,
+      "run_index": 11,
+      "seed": 20461028,
+      "generations": 200,
+      "population_size": 150,
+      "hypervolume": 0.8908741119822079,
+      "nondominated_count": 150
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 150.0,
+      "run_index": 12,
+      "seed": 20461029,
+      "generations": 200,
+      "population_size": 150,
+      "hypervolume": 0.8685731099783695,
+      "nondominated_count": 150
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 150.0,
+      "run_index": 13,
+      "seed": 20461030,
+      "generations": 200,
+      "population_size": 150,
+      "hypervolume": 0.8937477349400039,
+      "nondominated_count": 150
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 150.0,
+      "run_index": 14,
+      "seed": 20461031,
+      "generations": 200,
+      "population_size": 150,
+      "hypervolume": 0.8865551897421224,
+      "nondominated_count": 150
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 150.0,
+      "run_index": 15,
+      "seed": 20461032,
+      "generations": 200,
+      "population_size": 150,
+      "hypervolume": 0.8873955848179313,
+      "nondominated_count": 150
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 150.0,
+      "run_index": 16,
+      "seed": 20461033,
+      "generations": 200,
+      "population_size": 150,
+      "hypervolume": 0.9010444216303035,
+      "nondominated_count": 150
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 150.0,
+      "run_index": 17,
+      "seed": 20461034,
+      "generations": 200,
+      "population_size": 150,
+      "hypervolume": 0.866504593964116,
+      "nondominated_count": 150
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 150.0,
+      "run_index": 18,
+      "seed": 20461035,
+      "generations": 200,
+      "population_size": 150,
+      "hypervolume": 0.8837439385129608,
+      "nondominated_count": 150
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 150.0,
+      "run_index": 19,
+      "seed": 20461036,
+      "generations": 200,
+      "population_size": 150,
+      "hypervolume": 0.8838245012292454,
+      "nondominated_count": 150
+    },
+    {
+      "experiment": "B",
+      "parameter_name": "population_size",
+      "parameter_value": 150.0,
+      "run_index": 20,
+      "seed": 20461037,
+      "generations": 200,
+      "population_size": 150,
+      "hypervolume": 0.8916720260482905,
+      "nondominated_count": 150
+    }
+  ]
+}
